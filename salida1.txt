@@ -1,0 +1,47 @@
+INSERCIÓN
+Se ha tardado 16ms en insertar 10,000 elementos
+Se ha tardado 32ms en insertar 10,000 elementos
+Se ha tardado 52ms en insertar 10,000 elementos
+Se ha tardado 70ms en insertar 10,000 elementos
+Se ha tardado 98ms en insertar 10,000 elementos
+Se ha tardado 113ms en insertar 10,000 elementos
+Se ha tardado 119ms en insertar 10,000 elementos
+Se ha tardado 169ms en insertar 10,000 elementos
+Se ha tardado 191ms en insertar 10,000 elementos
+Se ha tardado 212ms en insertar 10,000 elementos
+
+EXTRACCIÓN
+Se ha tardado 202ms en extraer 10,000 elementos
+Se ha tardado 160ms en extraer 10,000 elementos
+Se ha tardado 138ms en extraer 10,000 elementos
+Se ha tardado 113ms en extraer 10,000 elementos
+Se ha tardado 90ms en extraer 10,000 elementos
+Se ha tardado 75ms en extraer 10,000 elementos
+Se ha tardado 59ms en extraer 10,000 elementos
+Se ha tardado 41ms en extraer 10,000 elementos
+Se ha tardado 24ms en extraer 10,000 elementos
+Se ha tardado 7ms en extraer 10,000 elementos
+
+BUSQUEDA EXITOSA
+Se ha tardado 12ms en buscar 10000 elementos
+Se ha tardado 45ms en buscar 20000 elementos
+Se ha tardado 104ms en buscar 30000 elementos
+Se ha tardado 189ms en buscar 40000 elementos
+Se ha tardado 288ms en buscar 50000 elementos
+Se ha tardado 386ms en buscar 60000 elementos
+Se ha tardado 548ms en buscar 70000 elementos
+Se ha tardado 717ms en buscar 80000 elementos
+Se ha tardado 926ms en buscar 90000 elementos
+Se ha tardado 1074ms en buscar 100000 elementos
+
+BUSQUEDA NO EXITOSA
+Se ha tardado 237ms en buscar 10,000 elementos
+Se ha tardado 248ms en buscar 20,000 elementos
+Se ha tardado 223ms en buscar 20,000 elementos
+Se ha tardado 229ms en buscar 20,000 elementos
+Se ha tardado 231ms en buscar 20,000 elementos
+Se ha tardado 231ms en buscar 20,000 elementos
+Se ha tardado 220ms en buscar 20,000 elementos
+Se ha tardado 201ms en buscar 20,000 elementos
+Se ha tardado 204ms en buscar 20,000 elementos
+Se ha tardado 219ms en buscar 20,000 elementos
